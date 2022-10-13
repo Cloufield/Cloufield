@@ -10,7 +10,8 @@ I am a PhD student in Complex tratis genetics Lab at the University of Tokyo.
 
 `formatbook`: A companion repo for gwaslab. A collection of commonlu used gwas sumstats format. 
 
-`CTGCatalog`: A collection of commonly used resources used in Complex Trait Genetics.
+`CTGCatalog`: https://cloufield.github.io/CTGCatalog/ A collection of commonly used resources used in Complex Trait Genetics.
+
 
 <!---
 Cloufield/Cloufield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
