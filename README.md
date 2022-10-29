@@ -2,8 +2,6 @@
 
 I am a PhD student in Complex tratis genetics Lab at the University of Tokyo.
 
-Twitter: @He_Yunye
-
 ## Github projects:
 
 `gwaslab`: https://github.com/Cloufield/gwaslab
