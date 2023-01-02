@@ -1,18 +1,18 @@
 # Hi，I am He Yunye.
 
-I am a PhD student in Complex tratis genetics Lab at the University of Tokyo.
+I am a PhD student in Complex Tratis Genetics at the University of Tokyo.
 
 ## Github projects:
 
-`gwaslab`: https://github.com/Cloufield/gwaslab
+Python packages:
 
-  A helpful python package to draw manhattan plot and qq plot, format sumstats, and so forth.  
+- **[gwaslab](https://github.com/Cloufield/gwaslab)**:  :A helpful python package to draw manhattan and qqplots, standardize and harmonize sumstats, and so forth.  
+- [formatbook](https://github.com/Cloufield/formatbook): A companion repo for gwaslab, collecting commonly used gwas sumstats formats for header conversion.
 
-`formatbook`: A companion repo for gwaslab. A collection of commonlu used gwas sumstats format. 
+Github pages:
 
-`CTGCatalog`: https://cloufield.github.io/CTGCatalog/ 
-
-A collection of commonly used resources used in Complex Trait Genetics.
+- [CTGCatalog](https://cloufield.github.io/CTGCatalog/): A collection of commonly used resources used in Complex Trait Genetics.
+- [GWASTutorial](https://cloufield.github.io/GWASTutorial/) : GWAS Tutorial for beginners.
 
 
 <!---
