@@ -1,8 +1,6 @@
  
 Hello! I am He Yunye, a Project Researcher in the Laboratory of complex trait genomics at the University of Tokyo.
 
-## Github projects:
-
 Python packages:
 
 - **[gwaslab](https://github.com/Cloufield/gwaslab)**:  :A helpful python package to draw manhattan and qqplots, standardize and harmonize sumstats, and so forth.  
