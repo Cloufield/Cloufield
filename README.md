@@ -1,4 +1,4 @@
-Hello! I am He Yunye, an **Assistant Professor** in the **Laboratory of Complex Trait Genomics** at **The University of Tokyo**.
+Hello! I am He Yunye, an Assistant Professor in the Laboratory of Complex Trait Genomics at The University of Tokyo.
 
 ### Python packages
 
