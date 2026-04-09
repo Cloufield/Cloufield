@@ -1,13 +1,12 @@
-Hello! I am He Yunye, a Research Associate in the Laboratory of Complex Trait Genomics at the University of Tokyo.
+Hello! I am He Yunye, an **Assistant Professor** in the **Laboratory of Complex Trait Genomics** at **The University of Tokyo**.
 
-Python packages:
+### Python packages
 
-- **[gwaslab](https://github.com/Cloufield/gwaslab)**: A Python package for GWAS summary statistics (sumstats) QC, standardization, and harmonization, with visualization tools including Manhattan and Q–Q plots.
-- **[sumstats-liftover](https://github.com/Cloufield/sumstats-liftover)**: A fast, lightweight Python package to lift over GWAS summary statistics between genome builds (e.g., GRCh37 ↔ GRCh38), designed for scalable sumstats coordinate conversion workflows.
-- **[formatbook](https://github.com/Cloufield/formatbook)**: A companion repository for gwaslab, collecting commonly used GWAS sumstats formats for header conversion.
+- **[gwaslab](https://github.com/Cloufield/gwaslab)**: A Python package for quality control, standardization, harmonization, and visualization of GWAS summary statistics, including Manhattan and Q–Q plots.
+- **[sumstats-liftover](https://github.com/Cloufield/sumstats-liftover)**: A fast and lightweight Python package for lifting over GWAS summary statistics between genome builds (for example, GRCh37 and GRCh38), designed for scalable coordinate conversion workflows.
+- **[formatbook](https://github.com/Cloufield/formatbook)**: A companion repository for **gwaslab** that collects commonly used GWAS summary statistics formats for header conversion and format standardization.
 
-Github pages:
+### GitHub Pages
 
-- **[CTGCatalog](https://cloufield.github.io/CTGCatalog/)**: A curated collection of commonly used resources in Complex Trait Genetics.
-- **[GWASTutorial](https://cloufield.github.io/GWASTutorial/)**: A beginner-friendly GWAS tutorial.
-
+- **[CTGCatalog](https://catalog.gwaslab.org/)**: A curated collection of commonly used resources in complex trait genetics.
+- **[GWASTutorial](https://cloufield.github.io/GWASTutorial/)**: A beginner-friendly tutorial covering the fundamentals and practice of GWAS.
